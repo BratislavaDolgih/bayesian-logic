@@ -1,0 +1,9 @@
+hypos_count;4
+hypo;Да
+hypo_chance;0.35
+hypo;Позвать на кофе
+hypo_chance;0.1
+hypo;Позвать прогуляться
+hypo_chance;0.2
+hypo;Нет
+hypo_chance;0.35
