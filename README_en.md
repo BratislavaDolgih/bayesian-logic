@@ -91,6 +91,7 @@ In copied repository there are few folders and two README-files:
 !--README_ru.md
 !--README_en.md
 ```
+(if there are no empty logs and out folders, then you MUST CREATE THEM!)
 
 In PowerShell go to folder-with-copied-repository.
 ```
